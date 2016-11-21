@@ -8,6 +8,7 @@ About
 
 Desmond J. Higham and Nicholas J. Higham, [MATLAB
 Guide](http://www.maths.manchester.ac.uk/~higham/mg/index.php),
+third edition,
 Society for Industrial and Applied Mathematics, Philadelphia, PA, USA,
 xxvi+476, 2017.
 
