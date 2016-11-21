@@ -12,6 +12,11 @@ third edition,
 Society for Industrial and Applied Mathematics, Philadelphia, PA, USA,
 xxvi+476, 2017.
 
+It comprises all the files in the "List of Program Files" in the book.
+Note that the two versions of `maxplus.m` are here named
+`maxplus_scalar.m` and 
+`maxplus_matrix.m`.
+
 
 Requirements
 -------------
