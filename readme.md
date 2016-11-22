@@ -4,7 +4,7 @@
 About
 -----
 
-`matlab-guide-3ed` is a collection of MATLAB Program files from
+`matlab-guide-3ed` is a collection of MATLAB Program files from the book
 
 Desmond J. Higham and Nicholas J. Higham, [MATLAB
 Guide](http://www.maths.manchester.ac.uk/~higham/mg/index.php),
@@ -12,7 +12,7 @@ third edition,
 Society for Industrial and Applied Mathematics, Philadelphia, PA, USA,
 xxvi+476, 2017.
 
-It comprises all the files in the "List of Program Files" in the book.
+It comprises all the codes in the "List of Program Files" in the book.
 Note that the two versions of `maxplus.m` are here named
 `maxplus_scalar.m` and 
 `maxplus_matrix.m`.
